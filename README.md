@@ -7,7 +7,7 @@ MSc Data Science student at Radboud University with a BSc in Artificial Intellig
 - **LinkedIn:** [linkedin.com/in/floris-rossel-302507197](https://www.linkedin.com/in/floris-rossel-302507197/)
 
 ## Technical Skills
-Python, Java, R, PyTorch, Pandas, SQL, Hadoop, Spark, and various neural network architectures (CNNs, RNNs, Transformers, GANs).
+Python, Java, C, R, PyTorch, Pandas, SQL, Hadoop, Spark, and various neural network architectures (CNNs, RNNs, GNNs, Transformers, GANs).
 
 ## Other Project Repositories
 
