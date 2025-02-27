@@ -1,7 +1,7 @@
 ### Other repostitories:
 
 Master thesis:  
-https://gitlab.science.ru.nl/frossel/luchtbrug-ACT-analysis
+gitlab.science.ru.nl/frossel/luchtbrug-ACT-analysis
 
 Machine Learning in Practice project:  
 https://gitlab.science.ru.nl/stanvissers/tiny-voxceleb-skeleton-2023
