@@ -12,9 +12,6 @@ Sentiment analysis project:
 Document re-ranking using BERT language model:  
 [github.com/jonan-richards/BERT-MSMARCO-document-ranking](https://github.com/jonan-richards/BERT-MSMARCO-document-ranking)
 
-Lung nodule segmentation:  
-[github.com/CharlotteJanssen/ISMI_LUNA23_group9](https://github.com/CharlotteJanssen/ISMI_LUNA23_group9)
-
 Big Data blog:  
 [rubigdata.github.io/bigdata-blog-2021-FlorisRX/](https://rubigdata.github.io/bigdata-blog-2021-FlorisRX/)
 
