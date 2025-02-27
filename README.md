@@ -1,6 +1,6 @@
 ### Other repostitories:
 
-Master thesis: 
+Master thesis:  
 https://gitlab.science.ru.nl/frossel/luchtbrug-ACT-analysis
 
 Machine Learning in Practice project:  
