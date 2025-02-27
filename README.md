@@ -9,9 +9,7 @@ MSc Data Science student at Radboud University with a BSc in Artificial Intellig
 ## Technical Skills
 Python, Java, R, PyTorch, Pandas, SQL, Hadoop, Spark, and various neural network architectures (CNNs, RNNs, Transformers, GANs).
 
-## Project Repositories
-
-This portfolio serves as a central hub for my academic and personal projects:
+## Other Project Repositories
 
 Master thesis:  
 [gitlab.science.ru.nl/frossel/luchtbrug-ACT-analysis](https://gitlab.science.ru.nl/frossel/luchtbrug-ACT-analysis)
