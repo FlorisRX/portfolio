@@ -30,7 +30,7 @@ Natural Computing - Cellular Potts Model:
 [github.com/freek1/naco-ec](https://github.com/freek1/naco-ec)
 
 FFprobe MKV bitrate viewer:
-https://github.com/FlorisRX/mkv_bitrate_plotter
+[github.com/FlorisRX/mkv_bitrate_plotter](https://github.com/FlorisRX/mkv_bitrate_plotter)
 
 Windows file creation date fixer:  
 [github.com/FlorisRX/file-creationdate-fixer](https://github.com/FlorisRX/file-creationdate-fixer)
