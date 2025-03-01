@@ -3,7 +3,6 @@
 ## About Me
 MSc Data Science student at Radboud University with a BSc in Artificial Intelligence. Focused on machine learning, data mining, and Bayesian statistics with strong analytical and problem-solving skills.
 
-- **Contact:** [florisrossel@gmail.com](mailto:florisrossel@gmail.com)
 - **LinkedIn:** [linkedin.com/in/floris-rossel-302507197](https://www.linkedin.com/in/floris-rossel-302507197/)
 
 ## Technical Skills
