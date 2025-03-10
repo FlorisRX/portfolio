@@ -26,7 +26,7 @@ Big Data blog:
 [rubigdata.github.io/bigdata-blog-2021-FlorisRX/](https://rubigdata.github.io/bigdata-blog-2021-FlorisRX/)
 
 Natural Computing - Cellular Potts Model:  
-[github.com/freek1/naco-ec](https://github.com/freek1/naco-ec)
+[github.com/freek1/naco-ec](https://github.com/freek1/naco-ec)  
 [(Fork) github.com/FlorisRX/nat-comp-2023](https://github.com/FlorisRX/nat-comp-2023)
 
 FFprobe MKV bitrate viewer:  
